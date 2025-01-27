@@ -6,7 +6,7 @@ console.log(document.body.ATTRIBUTE_NODE)
 
 
 
-document.body.style.backgroundColor = "red"
+bgColorChange()
 
 
 function  bgColorChange (){
